@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pypranav" alt="pypranav" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/pypranav" target="blank"><img src="https://img.shields.io/twitter/follow/sankalpdubedy?logo=twitter&style=for-the-badge" alt="pypranav" /></a> </p>
 
 - 🔭 I’m currently working on **some personal project along with SIH and and some top secret projects :sailent:**
 

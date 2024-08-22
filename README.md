@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-<div style="display:flex;gap:5px;">
+<div style="display:flex;gap:5px;flex-wrap:wrap;">
   <a href="https://instagram.com/pypranav">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
@@ -16,7 +16,7 @@
 </div>
 
 # 💻 Tech Stack:
-<div style="display:flex;gap:5px;">
+<div style="display:flex;gap:5px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">

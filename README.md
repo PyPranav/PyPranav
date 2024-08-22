@@ -4,7 +4,16 @@
 
 ## 🌐 Socials:
 <div style="display:flex">
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pypranav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pypranav) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pypranav) 
+<a href="https://instagram.com/pypranav">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://linkedin.com/in/pypranav">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://x.com/pypranav">
+  <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
+</a>
+
 </div>
 
 # 💻 Tech Stack:

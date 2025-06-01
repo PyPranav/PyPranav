@@ -3,7 +3,9 @@
 🔧 I’m currently working on Innovative Ideas, web development projects, and a few other secret ventures 🤫.<br>🤝 I’m looking to collaborate on innovative tech solutions and web development projects.<br>🌱 I’m currently learning Artificial Intelligence, Machine Learning (AI/ML), and modern web development.<br>💬 Ask me about hackathons, tech competitions, AI/ML, and web development.<br>🎉 Fun fact: I enjoy combining technology with creativity to build unique solutions!
 </p>
 
-Check out my portfolio: https://www.pypranav.com
+<p>
+Check out my portfolio: <a href="https://www.pypranav.com" target="_blank" rel="noopener noreferrer">https://www.pypranav.com</a>
+</p>
 
 
 
